@@ -1,6 +1,5 @@
 package edu.handong.csee.java.lab07.prob3;
 
-import java.util.Random;
 import java.util.*;
 
 public class Attendance {
