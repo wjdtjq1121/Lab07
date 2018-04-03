@@ -44,7 +44,7 @@ public class Chicken { // its a class which can access from other package
 	public String getName() { // getter method, returns name private member value
 		return name; // returns name member
 	}
-	
+
 	/**
 	 * Setters. </br>
 	 * Sets the value in private name member.</br>
